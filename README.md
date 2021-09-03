@@ -17,5 +17,6 @@ The context class is going to accept an argument represents an instance of a str
     your code can extend seamlessly.<br/>
     you can add more strategies or implementations seamlessly.<br/>
     your code is clean and readable.
-     <a href='https://refactoring.guru/design-patterns/strategy'>Excellent Ref</a>
+    <h5>References</h5>
+     <a href='https://refactoring.guru/design-patterns/strategy'><em>Strategy Pattern</em></a>
     
