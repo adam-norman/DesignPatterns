@@ -1,5 +1,5 @@
 # DesignPatterns
-<h3>1- Strategy Pattern</h3><br/>
+<h3>1- Strategy Pattern</h3>
 <em>Definition:</em><br/>
 Strategy is a behavioral design pattern that lets you define a family of algorithms, put each of them into a separate class, and make their objects interchangeable.<br/>
 <p>
@@ -13,7 +13,7 @@ Strategy is a behavioral design pattern that lets you define a family of algorit
    
 The context class is going to accept an argument represents an instance of a strategy, then it can execute seamlessly.<br/>
    
-<h4>Pros:</h4><br/>
+<h4>Pros:</h4>
     your code can extend seamlessly.<br/>
     you can add more strategies or implementations seamlessly.<br/>
     your code is clean and readable.<br/>
