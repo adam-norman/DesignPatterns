@@ -14,9 +14,12 @@ Strategy is a behavioral design pattern that lets you define a family of algorit
 The context class is going to accept an argument represents an instance of a strategy, then it can execute seamlessly.<br/>
    
 <h4>Pros:</h4>
-    your code can extend seamlessly.<br/>
-    you can add more strategies or implementations seamlessly.<br/>
-    your code is clean and readable.
+<ul>
+  <li>Your code can extend seamlessly.</li>
+    <li>You can add more strategies or implementations seamlessly.</li>
+    <li>Your code is clean and readable.</li>
+    <li>You can change the strategy in the runtime</li>
+  </ul>
     <h5>References</h5>
      <a href='https://refactoring.guru/design-patterns/strategy'><em>Strategy Pattern</em></a>
     
