@@ -1,5 +1,8 @@
 # DesignPatterns
 1- Strategy Pattern
+Definition:
+Strategy is a behavioral design pattern that lets you define a family of algorithms, put each of them into a separate class, and make their objects interchangeable.
+
   If a part of your application is going to process the same type of inputs and return the same type of output but with many implementations
    you should use the Strategy Pattern.
    For Example, you need to implement an application to make basic calculations (+,-,*,/) then each operation should have a different implementation and for sake of consistency, they all should implement the same interface which contains a method to be implemented.
